@@ -1,3 +1,2 @@
-void hello(){
-	printf("Hello world!\n" );
-}
+#include "print.h"
+hello();
